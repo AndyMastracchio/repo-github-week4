@@ -1,0 +1,5 @@
+Esteban - Quito - 1 - 10000.0
+Elsa - Nitario - 2 - 15000.0
+Armando - Paredes - 3 - 20000.0
+Elba - Gallo - 4 - 25000.0
+Susana - Horia - 5 - 30000.0
